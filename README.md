@@ -2,6 +2,9 @@
 
 My version of a common introductory data science project with a twist: Instead of throwing the data at a CNN, I tried to code 'from scratch' and manually engineer features from the raw pixel data to achieve a 96% accuracy, compared to a baseline of 10%.
 
+Slideshow presentation:
+https://docs.google.com/presentation/d/1xS-cWjIK7tM91jHpEvpDtrHsZILt0bGVtjZB_7k6nME/edit?usp=sharing
+
 # Notebooks
 1. Capstone 3: Main notebook where I load and clean the data, and engineer all of the features that make up the core of this project. There are som basic visualizations of the features at the end.
 2. Capstone 3 model testing: I try running my data from various supervised learning models and tune parameters to achieve the highest accuracy possible.
